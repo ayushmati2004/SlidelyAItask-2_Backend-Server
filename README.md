@@ -25,12 +25,6 @@ This is a backend server built with Express and TypeScript. It uses a JSON file 
 - Description: Deletes a form entry by index.
 - URL Parameter: `index` (0-indexed)
 
-### /edit
-- Method: PUT
-- Description: Edits a form entry by index.
-- URL Parameter: `index` (0-indexed)
-- Parameters: `name`, `email`, `phone`, `github_link`, `stopwatch_time`
-
 ## Running the Server
 
 1. Install dependencies:
