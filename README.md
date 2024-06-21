@@ -36,3 +36,7 @@ This is a backend server built with Express and TypeScript. It uses a JSON file 
 1. Install dependencies:
    ```bash
    npm install
+
+2. Run the server:
+   ```bash
+   npm start
