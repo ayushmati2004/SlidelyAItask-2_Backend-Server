@@ -33,5 +33,5 @@ This is a backend server built with Express and TypeScript. It uses a JSON file 
 
 2. Run the server:
    ```bash
-   npx ts-node src/server.ts
+   npm start
 
